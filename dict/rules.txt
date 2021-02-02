@@ -1,0 +1,24 @@
+Hello! Let's play!
+
+The computer thinks out a word - 
+displays the first and last letter 
+of the word and marks the places for 
+the remaining letters with strokes.
+
+The player suggests a letter that can 
+be included in this word. If such a 
+letter is in a word, then the computer 
+inserts it over the lines corresponding 
+to this letter - as many times as it occurs 
+in the word. If there is no such letter, 
+then the computer starts drawing a 
+picture. The player continues to 
+guess the letters until he guesses the whole 
+word. For each wrong answer,
+the computer adds
+one or some lines to the picture 
+(there are 8 elements).
+
+If the picture is completely drawn, 
+the player loses. If the player manages to 
+guess the word, he wins.
